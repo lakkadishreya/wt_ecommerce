@@ -1,14 +1,16 @@
-{
-{
-"firstname":"shreya",
-"lastnmae":"lakkadi",
-"age":20,
-"marks":{{
-"english":23
-},
-{"maths":28
-}
-};
-"address":"hyd"
-}
-}
+[
+  {
+    "firstname":"shreya",
+    "lastnmae":"lakkadi",
+    "age":20,
+    "marks":[
+      {
+        "english":23
+      },
+      {
+         "maths":28
+      }
+    ],
+    "address":"hyd"
+  }
+]
